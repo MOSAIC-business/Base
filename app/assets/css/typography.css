@@ -1,0 +1,8 @@
+.poster_text { 
+    font-size: 15rem;
+display: block;
+position: absolute;
+top: 0;
+left: -48px;
+letter-spacing: -16px;
+}
